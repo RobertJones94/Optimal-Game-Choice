@@ -29,4 +29,4 @@ risk than A how does that effect the game)
 
 Double for loop grid search seems like over kill
 
-Extend to 5 players?
+Extend to 5 or n players?
